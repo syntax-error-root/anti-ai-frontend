@@ -3,7 +3,7 @@ name: anti-ai-frontend
 description: Prevent frontend UIs from looking generic or AI-generated ("AI slop") and enforce production-grade design systems. Use whenever designing, building, refactoring, reviewing, or auditing websites, landing pages, dashboards, SaaS products, web apps, or UI components—especially when choosing colors, typography, layouts, spacing, shadows, or interactive states, even if the user does not explicitly mention "AI slop".
 license: MIT
 metadata:
-  author: ush
+  author: kimo
   version: "1.0.0"
 ---
 
